@@ -1,9 +1,9 @@
-title: devlopr
+title: Portfolio Website
 subtitle: A Portfolio Jekyll Theme Built for Developers
-description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+description: >- # Iam a front-end web developer,AR Machine Learning Enthusiast.
+ Founder of travelnomads.online
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://www.travelnomads.online" 
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -25,19 +25,19 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author: Felix Onkangi
+author_bio: Hi, my name is Felix Onkangi. I built this site using devlopr-jekyll :D
+author_email: "lex.ecosystem@gmail.com"
+author_location: Kenya
+author_website_url: "https://travelnomads.online"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: Freelancer
               company_logo: google.png
               company_url: https://google.com
-              designation: Software Engineer
+              designation: Software Developer
               description: Worked on various Google Products
               visibility: true
             - company_name: Microsoft
@@ -70,16 +70,15 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: Felixonkangi
+github_username:  fe99lo
+facebook_username: felix Onkangi
+linkedin_username: felix Onkangi
+behance_username: felix Onkangi
+instagram_username: felixx Onkangi
+medium_username: FELIX Onkangi
+telegram_username: felo
+
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
